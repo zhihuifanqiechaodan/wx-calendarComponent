@@ -8,3 +8,7 @@
 ### 支持年份筛选及月份左右切换
 
 ### 日期默认选中当日
+
+### Demo演示
+
+![](https://github.com/zhihuifanqiechaodan/gif-demo/blob/master/gif/calendar.gif)
